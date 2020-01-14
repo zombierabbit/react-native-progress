@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "prop-types": "^15.7.2",
-    "@react-native-community/art": "github:zombierabbit/art.git",
+    "@react-native-community/art": "github:zombierabbit/art.git"
   },
   "typings": "index.d.ts"
 }
